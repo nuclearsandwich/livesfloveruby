@@ -1,1 +1,1 @@
-web: deck index.md
+web: deck -p $PORT index.md
